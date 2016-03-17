@@ -1,0 +1,22 @@
+{
+  "name": "mean-todo",
+  "version": "1.0.0",
+  "description": "This is the course repo for [Building a MEAN Application](https://teamtreehouse.com/library/building-a-mean-application) on [Treehouse](https://teamtreehouse.com/) by Huston Hedinger and Ken Howard.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inaki/mean-todo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inaki/mean-todo/issues"
+  },
+  "homepage": "https://github.com/inaki/mean-todo#readme"
+}
